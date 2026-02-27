@@ -1,0 +1,6 @@
+Employee_ID,Department,Role,Required_IT_Assets,Onboarding_Status
+EMP001,HR,HR Executive,"Laptop, HRMS Access, Email ID",Pending IT Setup
+EMP002,IT,System Administrator,"High-performance Laptop, Admin Access, VPN",Access Granted
+EMP003,Finance,Financial Analyst,"Laptop, Finance ERP Access",Awaiting Manager Approval
+EMP004,Sales,Sales Executive,"Laptop, CRM Access, Email ID",IT Setup Completed
+EMP005,Marketing,Digital Marketing Specialist,"Laptop, Marketing Tools Access",Pending Asset Allocation
